@@ -35,7 +35,7 @@ This section provides the streamlined process for generating Tokowaka (TW) brand
 ### Step 1: Download Brand Presence Data
 
 **Where to get the data:**
-- Navigate to the Brand Presence shared folder: `<brand-presence-folder-link>`
+- Navigate to the Brand Presence shared folder: `https://adobe.sharepoint.com/:f:/r/sites/HelixProjects/Shared%20Documents/sites/elmo-ui-data?csf=1&web=1&e=t2IPtB`
 - Download ALL Excel files for the time period you want to analyze (typically weekly snapshots)
 
 **Where to put the data:**
