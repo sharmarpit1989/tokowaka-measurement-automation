@@ -1,7 +1,6 @@
 # Data files
 brand-presence-data/
 cutomer_urls/
-Input Excels/*.csv
 Output/
 
 # Python
