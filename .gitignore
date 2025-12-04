@@ -32,3 +32,5 @@ desktop.ini
 ~$*.xls
 *.tmp
 
+# Git workflow
+GIT_WORKFLOW.md
